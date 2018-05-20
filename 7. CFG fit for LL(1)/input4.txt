@@ -1,0 +1,9 @@
+7
+A BcD
+A eD
+D CD
+D #
+B f
+C b
+C d
+
